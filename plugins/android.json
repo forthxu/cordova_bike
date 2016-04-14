@@ -1,0 +1,29 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "cc.dreamlist.bike"
+        },
+        "com.qdc.plugins.baidu.location": {
+            "API_KEY": "E7fd84b974db7e935a19909f2593e925",
+            "PACKAGE_NAME": "cc.dreamlist.bike"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "cc.dreamlist.bike"
+        },
+        "cordova-plugin-themeablebrowser": {
+            "PACKAGE_NAME": "cc.dreamlist.bike"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "cc.dreamlist.bike"
+        }
+    }
+}
